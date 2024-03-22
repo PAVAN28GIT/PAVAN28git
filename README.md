@@ -3,7 +3,7 @@
 - 👾 I'm PAVAN, studying Computer Science in Bangalore, India.
 - 🔭 I’m currently working on small projects
 - 🌱 I’m currently learning DSA
-- 📫 Feel free to connect with me here on GitHub or reach out via [Link Text](pavankmjp@gmail.com)
+- 📫 Feel free to connect with me here on GitHub or reach out via [pavankmjp@gmail.com](pavankmjp@gmail.com)
 
 
 # 💻 Tech Stack:
