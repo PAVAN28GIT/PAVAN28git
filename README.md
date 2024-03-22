@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
+- 👾 I'm PAVAN, studying Computer Science in Bangalore, India.
 - 🔭 I’m currently working on small projects
 - 🌱 I’m currently learning DSA
+- 📫 Feel free to connect with me here on GitHub or reach out via [Link Text](pavankmjp@gmail.com)
 
 
 # 💻 Tech Stack:
