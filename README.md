@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👾 I'm PAVAN, studying Computer Science in Bangalore, India.
-- 🔭 I’m currently investing my time on cloud and backend development.
-- 🌱 I also love to solve DSA
-- 🎖️ check out my Blog Page where I share what I learn https://pavan-blog.hashnode.dev/
-- 📫 Feel free to connect with me here on GitHub or reach out via pavancs088@gmail.com
+- 👾 I'm PAVAN, Computer Science Student from Bangalore, India.
+- 🔭 I’m currently focusing on cloud and backend development.
+- 🌱 I enjoy solving DSA.
+- 🎖️ Check out my blog where I share what I learn: https://pavan-blog.hashnode.dev/
+- 📫 Feel free to connect with me at pavancs088@gmail.com if you're interested in cloud.
 
 # 💻 Tech Stack
 
